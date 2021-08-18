@@ -16,7 +16,7 @@ Fresco also supports:
 * streaming of progressive JPEGs
 * display of animated GIFs and WebPs
 * extensive customization of image loading and display
-* and much more to go!
+* and many more to go!
 
 Find out more at our [website](http://frescolib.org/index.html).
 
